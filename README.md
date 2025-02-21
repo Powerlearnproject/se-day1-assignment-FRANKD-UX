@@ -3,19 +3,13 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 1Explain what software engineering is and discuss its importance in the technology industry.
- 
  Software engineering is the ideation and the building of software programmes that are meant to solve a real world problems using code 
-
 2.Identify and describe at least three key milestones in the evolution of software engineering.
-  
-  The first milestone was when the term software engineering was coined by the NATO conference which addressed the issues associated with software engineering implementation at the time thus making it a recognized practiced discipline in the industry,The second milestone was the rise of structured programming which ensured that coded projects  could be broken down into segments thus eliminating (spaghetti code ) at this stage this is when the waterfall model  was introduced. The final milestone which is a result of our current state also known as the Agile revolution and dev ops was a process of the adoption of agile workflow which brought about collaboration as well as iterative development and the rise of dev ops which is the mix of development and operations thus us seeing continuous intergration and continuos development in the life cycle of a software, enabling automation and relatability and fast delivery of software      
-
+The first milestone was when the term software engineering was coined by the NATO conference which addressed the issues associated with software engineering implementation at the time thus making it a recognized practiced discipline in the industry,The second milestone was the rise of structured programming which ensured that coded projects  could be broken down into segments thus eliminating (spaghetti code ) at this stage this is when the waterfall model  was introduced. The final milestone which is a result of our current state also known as the Agile revolution and dev ops was a process of the adoption of agile workflow which brought about collaboration as well as iterative development and the rise of dev ops which is the mix of development and operations thus us seeing continuous intergration and continuos development in the life cycle of a software, enabling automation and relatability and fast delivery of software      
 3.List and briefly explain the phases of the Software Development Life Cycle.
     Planning 
     -this is the why of the project the ideation phase where limiting factors are identified and the shape ,tech stack ,time frame , teams allocated and spints are delibarated and decided on how the execution of the software blue print will be executed 
-
     Analysis 
      this is how of the project , when the tech stack has been chosen ,types of individuals needed for the project have been decided , if the team will be using agile or waterfall method , The best strategy is identified 
 
@@ -38,8 +32,6 @@ Software Engineering Day1 Assignment
 
     Scenario 2 
         this one shall be using the agile method it is a flexible and diverse process changes are usually constant as it accommodates those , roles are interchangeable ,testing is done while coding and production is being pushed resulting in them relying on constant customer feedback , constant cycles of sprints are present in this workflow and incremental changes are the order of the day here ,this one is used for majority of the softwares that we use which would be enterprise softwares , e commerce and mobile apps that are not compliance strict 
-
-
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
     Software Developer - this is the individual who is tasked with coding and ensuring that the planned software comes to life and does not contain bugs and is fully functional 
